@@ -38,6 +38,24 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:mazene684@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-mazene684@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
+</a>
+
+<a href="https://wa.me/201019877482" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp" />
+</a>
+
+<a href="https://www.linkedin.com/in/mazen-eldar-a54135349" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-View Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+</a>
+
+</div>
+
 
 ```cpp
 // Focused on mastering the stack
