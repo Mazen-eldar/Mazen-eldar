@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://mazen-eldar-portfolio.netlify.app">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/mazen-eldar">💼 LinkedIn</a> •
-  <a href="mailto:mazen.eldar@example.com">📧 Let's Connect</a>
+  <a href="mailto:mazen.eldar.dev@gmail.com">📧 Let's Connect</a>
 </p>
 
 <div align="center">
