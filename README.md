@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=mazen-eldar&color=0891b2&style=for-the-badge&label=VISITORS)
+ 
  
   
 </div>
