@@ -20,7 +20,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mazen-eldar&color=0891b2&style=for-the-badge&label=VISITORS)
-  [![Years Badge](https://badges.pufler.dev/years/mazen-eldar?style=for-the-badge&color=0891b2&logo=github)](https://github.com/mazen-eldar)
+ 
   
 </div>
 
