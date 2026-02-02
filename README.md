@@ -1,69 +1,85 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mazen Eldar 👋</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Working Dev" />
-<br>
+<h3 align="center">Full-Stack .NET Developer</h3>
 
-### Hi there 👋, I'm Mazen Eldar!
+<p align="center">
+ASP.NET Core • Web API • C# • SQL • JavaScript • Docker
+</p>
 
-🎓 CS & AI Student at Benha University  
-💻 Full Stack Trainee — Learning and Building  
-🚀 Passionate about Problem Solving & Algorithms  
-🤝 Active in student communities and soft skills growth  
-🎯 ACPC Ready — Training with Abu Hadhoud's ©ProgrammingAdvices
+<p align="center">
+🚀 Building scalable web applications <br>
+🎯 Focused on Backend & Full-Stack .NET <br>
+💼 Open for Internships & Freelance
+</p>
 
-</div>
-
----
-
-<details>
-<summary>🎧 Currently Coding and Vibing to</summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazen-eldar&show_icons=true" />
+</p>
 
 ---
 
-### 🚀 Tools & Technologies I Use:
+## 🧠 About Me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-## 📫 Contact Me
+I'm a **Computer Science & Artificial Intelligence student at Benha University** specializing in **Full-Stack .NET development**.
 
-<div align="center">
+I enjoy solving complex problems, building scalable systems, and continuously improving my skills.
 
-<a href="mailto:mazene684@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-mazene684@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
-</a>
+My goal is to join impactful tech teams, contribute to modern solutions, and grow as a professional developer.
 
-<a href="https://wa.me/201019877482" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/mazen-eldar-a54135349" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-View Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-</a>
+## 🛠 Tech Stack
 
-</div>
+### Backend
+- C#
+- ASP.NET Core MVC
+- .NET Web API
+- SQL Server
 
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
-```cpp
-// Focused on mastering the stack
+### Tools
+- Git & GitHub
+- Docker
+- Agile Workflow
 
-class MazenEldar {
-public:
-  string university = "Benha University";
-  string track = "Full Stack Developer";
-  string passion = "Problem Solving & Building Projects";
-  vector<string> strengths = {"C++", "OOP", "DS & Algo", "Soft Skills"};
-};
+---
+
+## 🎓 Training & Programs
+
+✔ Digital Egypt Pioneers (MCIT)  
+✔ Abou-Hadhoud Training Track  
+✔ 120-Hour Frontend & Web Design Program  
+✔ Competitive Programming Practice  
+
+---
+
+## 🌍 Portfolio
+
+🔗 **[View My Portfolio](https://mazen-eldar-portfolio.netlify.app)**
+
+---
+
+## 🏆 Current Focus
+
+- Improving backend architecture skills  
+- Practicing algorithms & data structures  
+- Building real-world .NET projects  
+- Growing freelancing experience  
+
+---
+
+## 🤝 Let's Connect
+
+📩 Open for internships & freelance work  
+⭐ Star my repositories if you find them useful  
+
+---
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
+</p>
